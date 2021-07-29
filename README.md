@@ -1,7 +1,7 @@
 # Convert-Money
 
 
-<img src="./assests/Convert Money.jpeg" width="350px" alt="imagem da interface do conversor de moedas">
+<img src="./assests/Convert Money.jpeg" width="350px" height= "250px" alt="imagem da interface do conversor de moedas">
 
 > Resultado do projeto convert money.
 
