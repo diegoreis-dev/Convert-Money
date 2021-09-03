@@ -1,7 +1,11 @@
 # Convert-Money
 
 
+<<<<<<< HEAD
 <img src="./assests/Convert Money.jpeg" width="350px" alt="imagem da interface do conversor de moedas">
+=======
+<img src="./assests/Convert Money.jpeg" width="350px"  alt="imagem da interface do conversor de moedas">
+>>>>>>> cf64bd16df8f90ac5a34bc1b73200d0063f98453
 
 > Resultado do projeto convert money.
 
