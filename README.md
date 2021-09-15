@@ -11,6 +11,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Criação do HTML
 - [x] Criação do CSS
 - [x] Integração do JavaScript
+- [x] Integração de uma API, para utilização dos valores de cada moeda atualizados.  
 - [ ] Integração de outras opções de moedas
 - [ ] Ultilização do Node
 
